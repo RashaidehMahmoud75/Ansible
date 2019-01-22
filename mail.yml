@@ -1,9 +1,0 @@
-- name: Copy Arifacts from source to destination remote site
-  hosts: all
-  gather_facts: no
-  #remote_user: root
-  remote_user: ubuntu
-  become: yes
-  become_method: sudo
-  roles:
-    - common
