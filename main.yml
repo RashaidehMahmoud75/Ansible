@@ -1,4 +1,0 @@
----
-- copy:
-    src: /home/ubuntu/artifacts/target/hello-world-war-1.0.0.war
-    dest: /home/ubuntu/artifacts/hello-world-war-1.0.0.war
